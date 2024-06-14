@@ -49,7 +49,8 @@ SigmaNet Browser is a simple browser client for navigating SigmaNet, a custom in
 
    - HTML and CSS rendering may be incomplete or buggy.
    - Limited support for complex web pages.
-   - Registrar and root domain server sometimes down
+   - You may need to resize browser window!
+   - Registrar and root domain server sometimes down.
    - Timeout handling might not always work as expected.
 
 ## Contributing
